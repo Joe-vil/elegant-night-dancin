@@ -1,0 +1,18 @@
+Instructions:gf:1
+FanceeBo:dad:1
+Exquisite:dad:1
+Fatherly Feud:dad:1
+Eerieez:spooky:2
+South East:spooky:2
+Mr Pico:pico:3
+Made In Philly:pico:3
+Striked:pico:3
+Cami Knickers:mom:4
+Euphoria:mom:4
+Mild:mom:4
+Hot Chocolate:parents-christmas:5
+Egg Milk Punch:parents-christmas:5
+Hellacius Holidays:monster-christmas:5
+Darling:senpai:6
+Blossoms:senpai:6
+Vines:spirit:6

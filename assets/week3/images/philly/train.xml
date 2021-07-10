@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="train.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="train intro0000" x="0" y="0" width="3114" height="395" frameX="-1165" frameY="0" frameWidth="4279" frameHeight="395"/>
+	<SubTexture name="train intro0001" x="0" y="0" width="3114" height="395" frameX="-755" frameY="0" frameWidth="4279" frameHeight="395"/>
+	<SubTexture name="train intro0002" x="0" y="0" width="3114" height="395" frameX="-352" frameY="0" frameWidth="4279" frameHeight="395"/>
+	<SubTexture name="train intro0003" x="0" y="395" width="3113" height="395" frameX="0" frameY="0" frameWidth="4279" frameHeight="395"/>
+	<SubTexture name="train loop0000" x="0" y="0" width="3114" height="395" frameX="-889" frameY="0" frameWidth="4279" frameHeight="395"/>
+	<SubTexture name="train loop0001" x="0" y="0" width="3114" height="395" frameX="-605" frameY="0" frameWidth="4279" frameHeight="395"/>
+	<SubTexture name="train loop0002" x="0" y="395" width="3113" height="395" frameX="0" frameY="0" frameWidth="4279" frameHeight="395"/>
+	<SubTexture name="train loop0003" x="0" y="0" width="3114" height="395" frameX="-1089" frameY="0" frameWidth="4279" frameHeight="395"/>
+	<SubTexture name="train loop0004" x="0" y="0" width="3114" height="395" frameX="-681" frameY="0" frameWidth="4279" frameHeight="395"/>
+	<SubTexture name="train outro0000" x="0" y="0" width="3114" height="395" frameX="-1176" frameY="0" frameWidth="4279" frameHeight="395"/>
+	<SubTexture name="train outro0001" x="0" y="0" width="3114" height="395" frameX="-960" frameY="0" frameWidth="4279" frameHeight="395"/>
+	<SubTexture name="train outro0002" x="0" y="0" width="3114" height="395" frameX="-520" frameY="0" frameWidth="4279" frameHeight="395"/>
+	<SubTexture name="train outro0003" x="0" y="0" width="3114" height="395" frameX="-276" frameY="0" frameWidth="4279" frameHeight="395"/>
+	<SubTexture name="train outro0004" x="0" y="395" width="3113" height="395" frameX="0" frameY="0" frameWidth="4279" frameHeight="395"/>
+</TextureAtlas>
