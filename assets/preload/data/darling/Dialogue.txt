@@ -1,3 +1,10 @@
-:dad:Ah, a new fair maiden has come in search of true love!
-:dad:A serenade between gentlemen shall decide where her beautiful heart shall reside.
-:bf:Beep bo bop
+:dad:Golly! Ain't this the bee's knees? I spy a gorgeous young flapper perched on a piano!
+:bf:Beep? Boop bep bop bep!
+:dad:Huh? Go figure that such a wonderful woman has a jellybean to accompany her
+:dad:But, such a beautiful lady should have higher standards, no?
+:bf:Beep Bup!
+:dad:Say, Dewdropper. How about we have us a duel of song?
+:dad: If you win, I can spare you a couple clams
+:dad:and everything'll be all hotsy-totsy for you and your girl
+:dad:If you lose though, your little miss over there'll be mine for the taking
+:bf:. . . Beep
