@@ -46,19 +46,19 @@ class Character extends FlxSprite
 				animation.addByIndices('hairFall', "GF Dancing Beat Hair Landing", [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11], "", 24, false);
 				animation.addByPrefix('scared', 'GF FEAR', 24);
 
-				addOffset('cheer');
-				addOffset('sad', -2, -2);
-				addOffset('danceLeft', 0, -9);
-				addOffset('danceRight', 0, -9);
+				addOffset('cheer', 5, -19);
+				addOffset('sad', 6, -13);
+				addOffset('danceLeft', 5, -9);
+				addOffset('danceRight', 5, -9);
 
-				addOffset("singUP", 0, 4);
-				addOffset("singRIGHT", 0, -20);
-				addOffset("singLEFT", 0, -19);
-				addOffset("singDOWN", 0, -20);
-				addOffset('hairBlow', 45, -8);
-				addOffset('hairFall', 0, -9);
+				addOffset("singUP", 5, 4);
+				addOffset("singRIGHT", 5, -20);
+				addOffset("singLEFT", 7, -19);
+				addOffset("singDOWN", 5, -20);
+				addOffset('hairBlow', 5, -6);
+				addOffset('hairFall', 5, -9);
 
-				addOffset('scared', -2, -17);
+				addOffset('scared', 3, -17);
 
 				playAnim('danceRight');
 
@@ -234,13 +234,13 @@ class Character extends FlxSprite
 				animation.addByPrefix('singUP', 'pico Up note0', 24, false);
 				animation.addByPrefix('singDOWN', 'Pico Down Note0', 24, false);
 				animation.addByPrefix('singLEFT', 'Pico NOTE LEFT0', 24, false);
-				animation.addByPrefix('singRIGHT', 'Pico NOTE LEFT0', 24, false);
+				animation.addByPrefix('singRIGHT', 'Pico Note Right0', 24, false);
 
 				addOffset('idle');
 				addOffset("singUP", -41, 19);
-				addOffset("singRIGHT", -72, -10);
+				addOffset("singRIGHT", 23, -17);
 				addOffset("singLEFT", -82, -10);
-				addOffset("singDOWN", 122, -95);
+				addOffset("singDOWN", 142, -95);
 
 				playAnim('idle');
 
@@ -270,15 +270,15 @@ class Character extends FlxSprite
 				animation.addByPrefix('scared', 'BF idle shaking', 24);
 
 				addOffset('idle', -5);
-				addOffset("singUP", -29, 27);
-				addOffset("singUPmiss", -29, 27);
-				addOffset("singRIGHT", -38, -7);
-				addOffset("singRIGHTmiss", -30, 21);
-				addOffset("singLEFT", 12, -6);
-				addOffset("singLEFTmiss", 12, 24);
-				addOffset("singDOWN", -10, -50);
-				addOffset("singDOWNmiss", -11, -19);
-				addOffset("hey", 7, 4);
+				addOffset("singUP", -6, 24);
+				addOffset("singUPmiss", -5, 27);
+				addOffset("singRIGHT", -3, -7);
+				addOffset("singRIGHTmiss", -5, 35);
+				addOffset("singLEFT", -5, -8);
+				addOffset("singLEFTmiss", 1, 27);
+				addOffset("singDOWN", -9, -52);
+				addOffset("singDOWNmiss", -9, 8);
+				addOffset("hey", -7, 10);
 				addOffset('firstDeath', 37, 11);
 				addOffset('deathLoop', 31, -2);
 				addOffset('deathConfirm', 33, 78);
@@ -303,15 +303,16 @@ class Character extends FlxSprite
 				animation.addByPrefix('hey', 'BF HEY', 24, false);
 
 				addOffset('idle', -5);
-				addOffset("singUP", -29, 27);
-				addOffset("singRIGHT", -38, -7);
-				addOffset("singLEFT", 12, -6);
-				addOffset("singDOWN", -10, -50);
-				addOffset("singUPmiss", -29, 27);
-				addOffset("singRIGHTmiss", -30, 21);
-				addOffset("singLEFTmiss", 12, 24);
-				addOffset("singDOWNmiss", -11, -19);
-				addOffset("hey", 7, 4);
+				addOffset("singUP", -6, 24);
+				addOffset("singUPmiss", -5, 27);
+				addOffset("singRIGHT", -3, -7);
+				addOffset("singRIGHTmiss", -5, 35);
+				addOffset("singLEFT", -5, -8);
+				addOffset("singLEFTmiss", 1, 27);
+				addOffset("singDOWN", -9, -52);
+				addOffset("singDOWNmiss", -9, 8);
+				addOffset("hey", -7, 10);
+
 
 				playAnim('idle');
 
