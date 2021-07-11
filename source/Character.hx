@@ -133,9 +133,9 @@ class Character extends FlxSprite
 				animation.addByPrefix('singLEFT', 'Dad Sing Note LEFT', 24);
 
 				addOffset('idle');
-				addOffset("singUP", -6, 50);
-				addOffset("singRIGHT", 0, 27);
-				addOffset("singLEFT", -10, 10);
+				addOffset("singUP", -14, 36);
+				addOffset("singRIGHT", -12, 20);
+				addOffset("singLEFT", -4, 1);
 				addOffset("singDOWN", 0, -30);
 
 				playAnim('idle');
@@ -207,10 +207,10 @@ class Character extends FlxSprite
 				animation.addByPrefix('singRIGHT', 'Monster Right note', 24, false);
 
 				addOffset('idle');
-				addOffset("singUP", -20, 50);
-				addOffset("singRIGHT", -51);
-				addOffset("singLEFT", -30);
-				addOffset("singDOWN", -30, -40);
+				addOffset("singUP", -38, 63);
+				addOffset("singRIGHT", -62, -9);
+				addOffset("singLEFT", 99, -61);
+				addOffset("singDOWN", -41, -20);
 				playAnim('idle');
 			case 'monster-christmas':
 				tex = Paths.getSparrowAtlas('characters/monsterChristmas');
@@ -222,10 +222,10 @@ class Character extends FlxSprite
 				animation.addByPrefix('singRIGHT', 'Monster Right note', 24, false);
 
 				addOffset('idle');
-				addOffset("singUP", -20, 50);
-				addOffset("singRIGHT", -51);
-				addOffset("singLEFT", -30);
-				addOffset("singDOWN", -40, -94);
+				addOffset("singUP", -38, 63);
+				addOffset("singRIGHT", -62, -9);
+				addOffset("singLEFT", 99, -61);
+				addOffset("singDOWN", -41, -20);
 				playAnim('idle');
 			case 'pico':
 				tex = Paths.getSparrowAtlas('characters/Pico_FNF_assetss');
