@@ -28,7 +28,7 @@ class StoryMenuState extends MusicBeatState
 		['Instructions'],
 		['FanceeBo', 'Exquisite', 'Fatherly Feud'],
 		['Eerieez', 'South East'],
-		['Mr Pico', 'Made In Philly', "Striked "],
+		['Mr Pico', 'Made In Philly', "Striked"],
 		['Cami Knickers', "Euphoria", "Mild"],
 		['Hot Chocolate', 'Egg Milk Punch', 'Hellacius Holidays'],
 		['Darling', 'Blossoms', 'Vines']
